@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Hello their world!"
+echo "Hello my world!"
 
 free -h
 
